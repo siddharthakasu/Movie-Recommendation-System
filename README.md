@@ -1,10 +1,10 @@
 # Movie Recommendation System
 
-🎬 About the Project
+## 🎬 About the Project
 
 Unlock the world of cinema with our Movie Recommendation System! This intelligent system suggests movies based on user preferences using Cosine Similarity, ensuring that you always get recommendations tailored to your taste.
 
-🚀 Features
+## 🚀 Features
 
 📊 Data Collection & Preprocessing: Cleans and structures movie data for better recommendations.
 
@@ -14,7 +14,7 @@ Unlock the world of cinema with our Movie Recommendation System! This intelligen
 
 🛠 Easy-to-Use: Simply enter a movie name and get instant suggestions.
 
-🏗 Technologies Used
+## 🏗 Technologies Used
 
 🐍 Python
 
@@ -24,7 +24,7 @@ Unlock the world of cinema with our Movie Recommendation System! This intelligen
 
 🔥 Flask (if applicable for deployment)
 
-📝 How to Use
+## 📝 How to Use
 
 Clone this repository.
 
@@ -34,11 +34,11 @@ Run the script and enter a movie name.
 
 Enjoy the recommendations!
 
-🤝 Contributing
+## 🤝 Contributing
 
 Feel free to fork this repository and enhance it with new features!
 
-📜 License
+## 📜 License
 
 This project is open-source and available under the MIT License.
 
